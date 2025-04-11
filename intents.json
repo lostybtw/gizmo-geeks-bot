@@ -1,0 +1,16 @@
+{"intents":
+	[
+		{
+			"tag": "greet",
+			"patterns":["hello!","hi!","hey!","what's up?","greetings!","good day!","sup?","namaste!","how's it going?","what's good?","nice day!"],
+			"responses":["good day to you!","hello, friend.","hi, user!","sup, how can i help ya?","namaste","greetings mate!"]
+		},
+
+		{
+			"tag": "goodbye",
+			"patterns":["good bye!","cya, mate!","I gotta go","I'll see you later.","have a good day","bye!","Ima go.","Pranam","see you next time","adios","sayonara"],
+			"responses":["Leaving so soon?","See ya, Friend.","Goodbye, Friend.","I hope I helped you well, User!","We'll meet again, I think.","Have a great day!"]
+		}
+
+	]
+}
